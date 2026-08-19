@@ -19,7 +19,7 @@ const luigi = {
   name: "Luigi Sardelari Scaliante",
   role: "Software Developer",
   education: "Information Systems - 5th term, Unoeste",
-  location: "Presidente Prudente, SP - Brazil",
+  location: "Presidente Prudente - SP, Brazil",
   stack: {
     frontend: ["HTML", "CSS", "JavaScript", "React"],
     backend: ["Java", "Spring Boot", "C", "C++", "Swift"],
