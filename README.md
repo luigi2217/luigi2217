@@ -1,6 +1,4 @@
 # Luigi Sardelari Scaliante #
-
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 4px 0 16px;">
 <br>
 <img src="https://img.shields.io/badge/-Software%20Developer-1a1a2e?style=for-the-badge&color=1a1a2e" alt="Software Developer"/>
 
