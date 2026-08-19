@@ -34,16 +34,12 @@ const luigi = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,swift" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48"/> <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48"/> <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48"/> <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="48"/> <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="48"/> <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48"/> <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48"/> <img src="https://skillicons.dev/icons?i=swift" title="Swift" alt="Swift" width="48"/> <br>
 
-<br>
+Databases
 
-**Databases**
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48"/> <img src="https://skillicons.dev/icons?i=oracle" title="Oracle" alt="Oracle" width="48"/> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48"/> <br>
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Databases"/>
+Frameworks & Tools
 
-<br>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=spring,react,git,github,kubernetes" alt="Frameworks & Tools"/>
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" width="48"/> <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48"/> <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48"/> <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48"/>
