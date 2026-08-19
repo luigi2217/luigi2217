@@ -11,9 +11,6 @@ I have hands-on experience with **databases**, along with knowledge of **C/C++**
 
 <br>
 
-
-<a href="mailto:luigi12014@hotmail.com" title="Gmail"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="24" alt="Gmail"/> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/luigi-sardelari-scaliante/" target="_blank" title="LinkedIn"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="24" alt="LinkedIn"/> </a> <br>
-
 ---
 
 ### 💻 About me, in code
@@ -49,3 +46,7 @@ Databases
 Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" width="48"/> <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48"/> <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48"/> <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48"/>
+
+📬 Contact Me
+
+<a href="mailto:luigi12014@hotmail.com" title="Gmail"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="24" alt="Gmail"/> </a>   <a href="https://www.linkedin.com/in/luigi-sardelari-scaliante/" target="_blank" title="LinkedIn"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="24" alt="LinkedIn"/> </a> <br>
