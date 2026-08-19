@@ -9,7 +9,6 @@ I have hands-on experience with **databases**, along with knowledge of **C/C++**
 
 🌎 Presidente Prudente - SP, Brazil | 21 years old
 
-<br>
 
 ---
 
