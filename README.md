@@ -4,7 +4,11 @@ I'm an Information Systems student (5th term) at Unoeste, focused on **fullstack
 
 I have hands-on experience with **databases**, along with knowledge of **C/C++** and data structures. I'm currently building my own projects with a focus on best practices, clean code, and delivering real value to end users.
 
+
 🌎 Presidente Prudente - SP, Brazil | 21 years old
+
+<br>
+
 
 <a href="mailto:luigi12014@hotmail.com" title="Gmail"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="24" alt="Gmail"/> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/luigi-sardelari-scaliante/" target="_blank" title="LinkedIn"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="24" alt="LinkedIn"/> </a> <br>
 
@@ -30,7 +34,7 @@ const luigi = {
 
 ---
 
-### 👨‍💻 Technologies
+### 🧩 Technologies
 
 **Languages**
 
