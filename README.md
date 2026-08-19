@@ -23,7 +23,7 @@ const luigi = {
   stack: {
     frontend: ["HTML", "CSS", "JavaScript", "React"],
     backend: ["Java", "Spring Boot", "C", "C++"],
-    data: ["MySQL", "Data Structures"],
+    data: ["MySQL", "PostgreSQL", "Oracle"],
     tools: ["Git", "GitHub", "Kubernetes"]
   },
   focus: "Building fullstack applications with best practices and clean code"
