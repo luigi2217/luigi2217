@@ -6,14 +6,7 @@ I have hands-on experience with **databases**, along with knowledge of **C/C++**
 
 🌎 Presidente Prudente - SP, Brazil | 21 years old
 
-<a href="mailto:luigi12014@hotmail.com" title="Gmail">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" alt="Gmail"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/luigi-sardelari-scaliante/" target="_blank" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" alt="LinkedIn"/>
-</a>
-
-<br>
+<a href="mailto:luigi12014@hotmail.com" title="Gmail"> <img src="https://img.shields.io/badge/-%20-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/luigi-sardelari-scaliante/" target="_blank" title="LinkedIn"> <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <br>
 
 ---
 
