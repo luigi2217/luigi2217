@@ -30,7 +30,7 @@ const luigi = {
 
 ---
 
-### 🧰 Technologies
+### 👨‍💻 Technologies
 
 **Languages**
 
@@ -38,7 +38,7 @@ const luigi = {
 
 Databases
 
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48"/> <img src="https://skillicons.dev/icons?i=oracle" title="Oracle" alt="Oracle" width="48"/> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48"/> <br>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48"/> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48"/> <br>
 
 Frameworks & Tools
 
