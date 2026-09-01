@@ -38,9 +38,12 @@ const luigi = {
 
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48"/> <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48"/> <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48"/> <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="48"/> <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="48"/> <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48"/> <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48"/> <img src="https://skillicons.dev/icons?i=swift" title="Swift" alt="Swift" width="48"/> <br>
 
-Databases
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48"/> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48"/> <br>
+<br>
 
 Frameworks & Tools
 
