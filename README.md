@@ -22,8 +22,8 @@ const luigi = {
   location: "Presidente Prudente - SP, Brazil",
   stack: {
     frontend: ["HTML", "CSS", "JavaScript", "React"],
-    backend: ["Java", "Spring Boot", "C", "C++", "Swift"],
-    data: ["MySQL", "PostgreSQL", "Oracle"],
+    backend: ["Java", "Spring Boot", "C", "C++", "Swift", "Typescript"],
+    data: ["MySQL", "PostgreSQL", "Oracle", "MongoDB"],
     tools: ["Git", "GitHub", "Kubernetes"]
   },
   focus: "Building fullstack applications with best practices and clean code"
